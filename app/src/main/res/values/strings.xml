@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">PathFinderApp</string>
+    <string name="kode_matkul">K0D3</string>
+    <string name="nama_matkul">Nama Mata Kulilah</string>
+    <string name="jam_matkul">JAM</string>
+    <string name="prof">Professor Lecturer</string>
+    <string name="nama_mhs">Nama Mahasiswa</string>
+    <string name="jurusan_mhs">Jurusan Kuliah Mahasiswa</string>
+    <string-array name="matkul">
+        <item>PBO</item>
+        <item>PBP</item>
+        <item>MPPL</item>
+        <item>Algoritma Dasar</item>
+    </string-array>
+    <string-array name="kode">
+        <item>IF213</item>
+        <item>IF218</item>
+        <item>IF591</item>
+        <item>IF123</item>
+    </string-array><string-array name="hari">
+        <item>Senin</item>
+        <item>Senin</item>
+        <item>Rabu</item>
+        <item>Jumat</item>
+    </string-array>
+    <string-array name="jam">
+        <item>2–3</item>
+        <item>2–5</item>
+        <item>1–2</item>
+        <item>6–7</item>
+    </string-array>
+    <string-array name="prof">
+        <item>Prof. Michael</item>
+        <item>Prof. Andre</item>
+        <item>Prof. Parker</item>
+        <item>Prof. William</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password_label">Password</string>
+    <string name="register_here">Register</string>
+    <string name="login_button_label">Login</string>
+    <string name="email_label">Email</string>
+    <string name="comment_label">Comment</string>
+    <string name="submit">Submit Comment</string>
+    <string name="register_button_label">Register</string>
+    <string name="name_label">Nama</string>
+    <string name="NIM">NIM</string>
+    <string name="nidn_label">NIDN</string>
+    <string name="lesson_label">Lesson ID</string>
+</resources>
